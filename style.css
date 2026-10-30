@@ -1,0 +1,20 @@
+body {
+  background-color: #f8f9fa;
+}
+
+.student-card {
+  border: 1px solid #dee2e6;
+  border-radius: 10px;
+  padding: 16px;
+  background-color: #ffffff;
+  height: 100%;
+}
+
+.student-card h5 {
+  margin-bottom: 8px;
+}
+
+.student-card p {
+  margin-bottom: 4px;
+  color: #495057;
+}
